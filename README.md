@@ -15,4 +15,5 @@ This was made for subject CS464(University).
 8) We achieved an average 92.0 SUS score on our Platform Design(Success).
 
 Here is a link to the prototype used: https://invis.io/6PBFB4U74
+
 For more info feel free to contact me at: giorgoskaragian@hotmail.com
